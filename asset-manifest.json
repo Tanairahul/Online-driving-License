@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Online-driving-License/static/css/main.580788c9.css",
+    "main.js": "/Online-driving-License/static/js/main.6035cf91.js",
+    "static/js/206.6b2495c8.chunk.js": "/Online-driving-License/static/js/206.6b2495c8.chunk.js",
+    "static/media/vltd.png": "/Online-driving-License/static/media/vltd.3dab0ef99ed776183273.png",
+    "static/media/image-2.jpg": "/Online-driving-License/static/media/image-2.f0022ed8b38827b66fe5.jpg",
+    "static/media/india permit.jpg": "/Online-driving-License/static/media/india permit.c4bc7ae790ff76882521.jpg",
+    "static/media/polution.jpg": "/Online-driving-License/static/media/polution.a3e823caca4719ce2777.jpg",
+    "static/media/flag.jpg": "/Online-driving-License/static/media/flag.cfaa1824e19bb1150dd2.jpg",
+    "static/media/image-1.jpg": "/Online-driving-License/static/media/image-1.205591a4495dc8bdb96f.jpg",
+    "static/media/image-3.jpg": "/Online-driving-License/static/media/image-3.122253fe6058532de77a.jpg",
+    "static/media/sarathi.png": "/Online-driving-License/static/media/sarathi.233062b88fde3d715dc2.png",
+    "static/media/cng.jpg": "/Online-driving-License/static/media/cng.b696c5cd31dc9d5864e7.jpg",
+    "static/media/form.webp": "/Online-driving-License/static/media/form.2724f35de5c3e449e47e.webp",
+    "static/media/fancy.webp": "/Online-driving-License/static/media/fancy.900a64ae51253b2b5a04.webp",
+    "static/media/services2.avif": "/Online-driving-License/static/media/services2.402e7c9427911150632a.avif",
+    "static/media/phone.jpg": "/Online-driving-License/static/media/phone.a5dd83f8e9b5f5b8e422.jpg",
+    "index.html": "/Online-driving-License/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.580788c9.css",
+    "static/js/main.6035cf91.js"
+  ]
+}
